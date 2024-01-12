@@ -1,4 +1,5 @@
 ### Hi there 👋
 
-``` I am a full stack developer and Security Researcher
+```bash
+I am a full stack developer and Security Researcher
 ```
