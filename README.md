@@ -1,1 +1,1 @@
-### Hi there 👋..... <b>founder <a href="https://scoreswift.in/">ScoreSwift.in</a>
+### Hi there 👋..... <b>Founder and CEO of <a href="https://scoreswift.in/">ScoreSwift.in</a>
